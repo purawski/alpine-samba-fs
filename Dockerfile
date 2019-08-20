@@ -5,7 +5,7 @@ MAINTAINER Pawel Urawski
 ####################################################
 ########               Update               ########
 ####################################################
-# The GNU Compiler Collection 5.3.0-r0
+
  
 RUN set -x \
     apk update && \
